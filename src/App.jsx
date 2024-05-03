@@ -1,15 +1,14 @@
-<<<<<<< HEAD
+
 import './App.css'
 import { useState } from 'react'
 import axios from "axios"
 import Weather from './components/Weather'
-=======
 import './App.css';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { FaSearch } from 'react-icons/fa'; 
 import Weather from './components/Weather';
->>>>>>> ea0b523 (Added Styling and Mobile Responsiveness)
+
 
 function App() {
   
